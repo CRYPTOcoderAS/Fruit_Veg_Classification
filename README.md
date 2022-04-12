@@ -44,6 +44,7 @@ pip install -r requirements.txt
 - `Fruits_Vegetable_Classification.py` is the main Python file of Streamlit Web-Application. 
 - `Fruit_Veg_Classification_Mobilenet.ipynb` is the Notebook file of the Training
 - Dataset that I have used is [Fruit and Vegetable Image Recognition](https://www.kaggle.com/kritikseth/fruit-and-vegetable-image-recognition).
+- Kaggle notebook - [NoteBook](https://www.kaggle.com/code/akshatsachan/ai-project).
 
 
 ## Run
