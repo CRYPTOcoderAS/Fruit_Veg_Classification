@@ -68,6 +68,8 @@ streamlit run Fruits_Vegetable_Classification.py
 
 <td>
 
+
+
 👤 **Akshat Sachan**
 
 <p align="center">
@@ -78,6 +80,77 @@ streamlit run Fruits_Vegetable_Classification.py
 <img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" 
 width="36" height = "36"/></a>
 <a href = "https://www.linkedin.com/in/akshat-sachan-58b2921ab/">
+<img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
+</a>
+</p>
+</td>
+
+
+<td>
+
+👤 **Ishita Sharma**
+
+<p align="center">
+<img src = "https://avatars.githubusercontent.com/IshitaSharma3101"  height="120" alt="IshitaSharma3101">
+</p>
+<p align="center">
+<a href = "https://github.com/IshitaSharma3101">
+<img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" 
+width="36" height = "36"/></a>
+<a href = "https://www.linkedin.com/in/">
+<img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
+</a>
+</p>
+</td>
+
+<td>
+
+👤 **Rohan Sachdeva**
+
+<p align="center">
+<img src = "https://avatars.githubusercontent.com/rsachdeva1020"  height="120" alt="rsachdeva1020">
+</p>
+<p align="center">
+<a href = "https://github.com/rsachdeva1020">
+<img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" 
+width="36" height = "36"/></a>
+<a href = "https://www.linkedin.com/in/b/">
+<img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
+</a>
+</p>
+</td>
+
+
+<td>
+
+👤 **Vinay Kumar**
+
+<p align="center">
+<img src = "https://avatars.githubusercontent.com/vk1jan"  height="120" alt="vk1jan">
+</p>
+<p align="center">
+<a href = "https://github.com/vk1jan">
+<img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" 
+width="36" height = "36"/></a>
+<a href = "https://www.linkedin.com/in//">
+<img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
+</a>
+</p>
+</td>
+
+
+<td>
+
+👤 **Shrishti Agrawal**
+
+<p align="center">
+<img src = "https://avatars.githubusercontent.com/ShrishtiAgrawal"  height="120" alt="Shrishti Agrawal">
+</p>
+<p align="center">
+<a href = "https://github.com/ShrishtiAgrawal">
+<img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" 
+width="36" height = "36"/></a>
+<a href = "https://www.linkedin.com/in//">
 <img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
 </a>
 </p>
